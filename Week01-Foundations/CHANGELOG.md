@@ -10,7 +10,7 @@ Week 1 - Day 1
 - Core tools installed  
 - A portfolio overview 
 
-Week1 - Day 2
--Local Git installed and configured
--SSH key added
--Repo cloned locally
+Week 1 - Day 2
+- Local Git installed and configured
+- SSH key added
+- Repo cloned locally
