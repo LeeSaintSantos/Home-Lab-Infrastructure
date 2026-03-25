@@ -2,11 +2,11 @@
 A hands‑on homelab aligned with CompTIA Tech+, A+, Network+, and CCNA objectives.
 
 ## 📌 Purpose
-To build a verifiable record of IT skills through structured projects, documentation, and home lab configurations.
+To build a Home IT Infrastructure & Support Environment with Documentation.
 
 ## 📁 Project Index
 - [Week 1: Foundations & Documentation System](https://github.com/LeeSaintSantos/Home-Lab-Infrastructure/tree/main/Week01-Foundations)
-- Week 2: Hardware & OS Fundamentals
+- [Week 2: Hardware & OS Fundamentals](https://github.com/LeeSaintSantos/Home-Lab-Infrastructure/tree/main/Week02-Hardware-OS)
 - Week 3: Virtualization Lab Build
 - Week 4: Networking Basics
 - Week 5: Routing & Switching
