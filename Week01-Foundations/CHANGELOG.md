@@ -9,3 +9,8 @@ Week 1 - Day 1
 - A knowledge base ready for notes  
 - Core tools installed  
 - A portfolio overview 
+
+Week1 - Day 2
+-Local Git installed and configured
+-SSH key added
+-Repo cloned locally
