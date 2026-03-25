@@ -1,36 +1,41 @@
-# Project Title (Replace with actual project name)
+# Week 1 — IT Documentation System Build
 
 ## 📌 Summary
-A short explanation of what this project is and why it matters.
+This project establishes the documentation standards, folder structures, and workflow that will be used throughout this Homelab. It includes the universal template, screenshot workflow, commit message guidelines, and GitHub structure.
 
 ## 🎯 Objectives
-- Objective 1
-- Objective 2
-- Objective 3
+- Create a reusable documentation template
+- Build a consistent folder structure for all projects
+- Establish a screenshot and logging workflow
+- Define commit message standards
+- Make multiple meaningful commits to GitHub
 
 ## 🧰 Environment Setup
-- Hardware used
-- Software used
-- Network details
-- VM details
+- Windows 10/11 workstation
+- Git & GitHub
+- VS Code or Notepad++
+- Screenshot tool (Snipping Tool, ShareX, or built‑in)
+- Local folder structure for documentation assets
 
 ## 🧪 Step-by-Step Procedures
-1. Step 1
-2. Step 2
-3. Step 3
+1. Created Week 1 folder structure
+2. Added documentation template
+3. Created screenshots, configs, logs, and notes folders
+4. Defined commit message guidelines
+5. Made initial commits to GitHub
 
 ## 🖼️ Screenshots
-Place images in the `/screenshots` folder and reference them here.
+Screenshots documenting the setup process are stored in `/screenshots`.
 
 ## ⚙️ Configurations
-Paste configs, commands, or settings here.
+Any configuration files or templates used in this project are stored in `/configs`.
 
 ## 🛠️ Troubleshooting Logs
-Document issues, symptoms, root causes, and fixes.
+Logs related to Git setup, SSH keys, or repo issues are stored in `/logs`.
 
 ## 📚 Lessons Learned
-What you gained from this project.
+To be completed at the end of the week.
 
 ## 🚀 Future Improvements
-Ideas for expanding or refining the project.
-
+- Add diagram templates
+- Add PowerShell/Bash automation for folder creation
