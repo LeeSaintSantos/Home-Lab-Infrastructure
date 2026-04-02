@@ -5,22 +5,13 @@ A hands‑on homelab aligned with CompTIA Tech+, A+, Network+, and CCNA objectiv
 To build a Home IT Infrastructure & Support Environment with Documentation.
 
 ## 📁 Project Index
-- [Week 1: Foundations & Documentation System](https://github.com/LeeSaintSantos/Home-Lab-Infrastructure/tree/main/Week01-Foundations)
-- [Week 2: Hardware & OS Fundamentals](https://github.com/LeeSaintSantos/Home-Lab-Infrastructure/tree/main/Week02-Hardware-OS)
-- Week 3: Virtualization Lab Build
-- Week 4: Networking Basics
-- Week 5: Routing & Switching
-- Week 6: Windows Administration
-- Week 7: Linux Administration
-- Week 8: Security Fundamentals
-- Week 9: Troubleshooting Frameworks
-- Week 10: Cisco Labs (Part 1)
-- Week 11: Cisco Labs (Part 2)
-- Week 12: Network Monitoring & Tools
-- Week 13: Ticketing Simulations
-- Week 14: Home Network Hardening
-- Week 15: Capstone Project
-- Week 16: Final Review & Portfolio Polish
+| Project | Domain | Status |
+|---|---|---|
+| VM Homelab Setup | Virtualization | 🔄 In progress |
+| SOHO Network Diagram | Networking | ⏳ Upcoming |
+| Malware Removal SOP | Security | ⏳ Upcoming |
+| Subnet Calculator | IP Addressing | ⏳ Upcoming |
+| Wireshark Captures | Troubleshooting | ⏳ Upcoming |
 
 ## 🧰 Tools Used
 - VirtualBox
