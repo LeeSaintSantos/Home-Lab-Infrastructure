@@ -7,7 +7,7 @@ To build a Home IT Infrastructure & Support Environment with Documentation.
 ## 📁 Project Index
 | Project | Domain | Status |
 |---|---|---|
-| VM Homelab Setup | Virtualization | 🔄 In progress |
+| [VM Homelab Setup](https://github.com/LeeSaintSantos/Home-Lab-Infrastructure/tree/main/a-plus-core1/vm-setup) | Virtualization | 🔄 In progress |
 | SOHO Network Diagram | Networking | ⏳ Upcoming |
 | Malware Removal SOP | Security | ⏳ Upcoming |
 | Subnet Calculator | IP Addressing | ⏳ Upcoming |
