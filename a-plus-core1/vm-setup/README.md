@@ -31,6 +31,10 @@ Create Ubuntu virtual machine: <br/>
 <img src="https://i.imgur.com/0rxc7F6.png" height="80%" width="80%">
 <br/>
 <br/>
+Ubuntu clean install: <br/>
+<img src="https://i.imgur.com/UDeALSi.png" height="80%" width="80%">
+<br/>
+<br/>
 
 </p>
 
