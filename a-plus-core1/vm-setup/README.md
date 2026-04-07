@@ -10,8 +10,8 @@ Install & configure virtualization platform
 
 ## 🧰 Environment Setup
 - ThinkPad T480
-- VirtualBox
-- Windows 10 VM - 2 CPU, 4GB RAM, 40GB disk  
+- VirtualBox 7.2.4
+- Windows 10/11 VM - 2 CPU, 4GB RAM, 40GB disk  
 - Ubuntu Desktop VM - 2 CPU, 4GB RAM, 25GB disk 
 
 
@@ -22,24 +22,31 @@ Install & configure virtualization platform
 3. Create two VMs
 
 ## 🖼️ Screenshots
-Download and install VirtualBox: <br/>
-<img src=" "/>
+<p align="center">
+Download & Install VirtualBox: <br/>
+<img src="https://i.imgur.com/cJAffZD.png" height="80%" width="80%">
 <br/>
 <br/>
-Place images in the `/screenshots` folder and reference them here.
+Create Ubuntu virtual machine: <br/>
+<img src="https://i.imgur.com/0rxc7F6.png" height="80%" width="80%">
+<br/>
+<br/>
+
+</p>
 
 ## ⚙️ Configurations
 Paste configs, commands, or settings here.
 - IP:
-- OS:
-- Version:
+- OS: Ubuntu Desktop
+- Version: 24.04.3
 - Notes:
 
 ## 🛠️ Troubleshooting Logs
-Document issues, symptoms, root causes, and fixes.
-- Issue:
-- Root Cause:
-- Fix:
+
+- Issue: Missing Microsoft Visual C++ 2019 Redistributable Package
+- Symptom: Unable to install VirtualBox
+- Root Cause: Visual C++ 2017 installed, VirtualBox requirement
+- Fix: Download both x86 and x64 versions of the multi-installer Visual C++ 2015, 2017, 2019 and 2022 redistributable
 
 ## 📚 Lessons Learned
 What you gained from this project.
