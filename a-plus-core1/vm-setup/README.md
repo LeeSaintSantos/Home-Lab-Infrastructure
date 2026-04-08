@@ -1,7 +1,7 @@
 # VM Homelab Setup
 
 ## 📌 Summary
-Install & configure virtualization platform
+Install & configure virtualization platforms
 
 ## 🎯 Objectives
 - Install VirtualBox
@@ -11,7 +11,7 @@ Install & configure virtualization platform
 ## 🧰 Environment Setup
 - ThinkPad T480
 - VirtualBox 7.2.4
-- Windows 10/11 VM - 2 CPU, 4GB RAM, 40GB disk  
+- Windows 10/11 VM - 2 CPU, 4GB RAM, 80GB disk  
 - Ubuntu Desktop VM - 2 CPU, 4GB RAM, 25GB disk 
 
 
@@ -35,18 +35,31 @@ Ubuntu clean install: <br/>
 <img src="https://i.imgur.com/UDeALSi.png" height="80%" width="80%">
 <br/>
 <br/>
+Create Windows virtual machine: <br/>
+<img src="https://i.imgur.com/CS1TzVA.png" height="80%" width="80%">
+<br/>
+<br/>
+Windows clean install: <br/>
+<img src="https://i.imgur.com/4w5BCbT.png" height="80%" width="80%">
+<br/>
+<br/>
 
 </p>
 
 ## ⚙️ Configurations
-Paste configs, commands, or settings here.
+
 - IP:
 - OS: Ubuntu Desktop
 - Version: 24.04.3
 - Notes:
+- IP:
+- OS: Windows
+- Version: 11
+- Notes:
 
 ## 🛠️ Troubleshooting Logs
 
+Ubuntu Desktop
 - Issue: Missing Microsoft Visual C++ 2019 Redistributable Package
 - Symptom: Unable to install VirtualBox
 - Root Cause: Visual C++ 2017 installed, VirtualBox requirement
