@@ -5,13 +5,13 @@ A hands‑on homelab aligned with CompTIA Tech+, A+, Network+, and CCNA objectiv
 To build a Home IT Infrastructure & Support Environment with Documentation.
 
 ## 📁 Project Index
-| Project | Domain | Status |
-|---|---|---|
-| [VM Homelab Setup](https://github.com/LeeSaintSantos/Home-Lab-Infrastructure/tree/main/a-plus-core1/vm-setup) | Virtualization | 🔄 In progress |
-| SOHO Network Diagram | Networking | ⏳ Upcoming |
-| Malware Removal SOP | Security | ⏳ Upcoming |
-| Subnet Calculator | IP Addressing | ⏳ Upcoming |
-| Wireshark Captures | Troubleshooting | ⏳ Upcoming |
+| Project | Domain | Tools |Status |
+|---|---|---|---|
+| [VM Homelab Setup](https://github.com/LeeSaintSantos/Home-Lab-Infrastructure/tree/main/a-plus-core1/vm-setup) | Virtualization | VirtualBox, Ubuntu, Windows 11 | ✅ Completed |
+| SOHO Network Diagram | Networking | app.diagrams.net | ⏳ Upcoming |
+| Malware Removal SOP | Security | Markdown | ⏳ Upcoming |
+| Subnet Calculator | IP Addressing | Python | ⏳ Upcoming |
+| Wireshark Captures | Troubleshooting | Wireshark | ⏳ Upcoming |
 
 ## 🧰 Tools Used
 - VirtualBox
