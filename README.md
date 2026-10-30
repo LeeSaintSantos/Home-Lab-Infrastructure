@@ -7,8 +7,8 @@ To build a Home IT Infrastructure & Support Environment with Documentation.
 ## 📁 Project Index
 | Project | Domain | Tools |Status |
 |---|---|---|---|
-| [VM Homelab Setup](https://github.com/LeeSaintSantos/Home-Lab-Infrastructure/tree/main/a-plus-core1/vm-setup) | Virtualization | VirtualBox, Ubuntu, Windows 11 | ✅ Completed |
-| [SOHO Network Diagram](https://github.com/LeeSaintSantos/Home-Lab-Infrastructure/tree/main/a-plus-core1/network-config) | Networking | draw.io | 🔄 In progress |
+| [VM Homelab Setup](https://github.com/LeeSaintSantos/Home-Lab-Infrastructure/blob/main/configuration/vm-setup/README.md) | Virtualization | VirtualBox, Ubuntu, Windows 11 | ✅ Completed |
+| [SOHO Network Diagram](https://github.com/LeeSaintSantos/Home-Lab-Infrastructure/blob/main/architecture/network/README.md) | Networking | draw.io | 🔄 In progress |
 | Malware Removal SOP | Security | Markdown | ⏳ Upcoming |
 | Subnet Calculator | IP Addressing | Python | ⏳ Upcoming |
 | Wireshark Captures | Troubleshooting | Wireshark | ⏳ Upcoming |
